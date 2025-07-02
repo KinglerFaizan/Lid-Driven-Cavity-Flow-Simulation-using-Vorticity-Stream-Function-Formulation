@@ -1,7 +1,5 @@
 # Lid Driven Cavity Flow Simulation README.md
 
-Here is your **final detailed README.md content** exported for direct download.
-
 ---
 
 ## 📌 Problem Statement
@@ -126,13 +124,6 @@ Follow the prompts to enter:
 
 ---
 
-## 📂 Files Included
-
-| File                   | Description                                   |
-| ---------------------- | --------------------------------------------- |
-| `lid_driven_cavity.py` | Main Python script implementing the CFD code. |
-| `CFDassignment2.pdf`   | Problem statement and equations.              |
-| `README.md`            | Project description and instructions.         |
 
 ---
 
@@ -146,27 +137,5 @@ This code provides a foundation for:
 
 ---
 
-## 👨‍💻 Author
 
-**MOHAMMED FAIZAN (SVNIT)**
-
----
-
-## 🔗 References
-
-- Computational Fluid Dynamics textbook formulations
-- MIT OpenCourseWare CFD lecture notes
-- Ferziger & Peric, *Computational Methods for Fluid Dynamics*
-
----
-
-## 📝 License
-
-This project is open-source for educational and academic learning purposes.
-
----
-
-✅ **Download this updated .md file from canvas for your GitHub upload now.**
-
-Let me know if you also need a LaTeX PDF with SVNIT branding for your records today.
 
